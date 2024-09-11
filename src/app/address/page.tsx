@@ -7,7 +7,7 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-       weha Banglous near by Abbsia complex Rahim Yar Khan.
+       weha Banglous near by Abbsia Complex Rahim Yar Khan.
         </p>
       </blockquote>
       <figcaption className="font-medium">
